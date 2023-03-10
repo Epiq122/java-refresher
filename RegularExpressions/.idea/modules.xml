@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdditionalCharacterClasses/AdditionalCharacterClasses.iml" filepath="$PROJECT_DIR$/AdditionalCharacterClasses/AdditionalCharacterClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaptureGroups/CaptureGroups.iml" filepath="$PROJECT_DIR$/CaptureGroups/CaptureGroups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommentsRegularExpression/CommentsRegularExpression.iml" filepath="$PROJECT_DIR$/CommentsRegularExpression/CommentsRegularExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NamedCaptureGroups/NamedCaptureGroups.iml" filepath="$PROJECT_DIR$/NamedCaptureGroups/NamedCaptureGroups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegexPractice/RegexPractice.iml" filepath="$PROJECT_DIR$/RegexPractice/RegexPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegexPractice2/RegexPractice2.iml" filepath="$PROJECT_DIR$/RegexPractice2/RegexPractice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions.iml" filepath="$PROJECT_DIR$/RegularExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrappingUpPhoneNumber/WrappingUpPhoneNumber.iml" filepath="$PROJECT_DIR$/WrappingUpPhoneNumber/WrappingUpPhoneNumber.iml" />
+    </modules>
+  </component>
+</project>

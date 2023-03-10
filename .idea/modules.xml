@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/AdditionalCharacterClasses/AdditionalCharacterClasses.iml" filepath="$PROJECT_DIR$/RegularExpressions/AdditionalCharacterClasses/AdditionalCharacterClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/BlankOrEmpty/BlankOrEmpty.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/BlankOrEmpty/BlankOrEmpty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/BlankOrEmpty/BlankOrEmpty1.iml" filepath="$PROJECT_DIR$/working-with-text/BlankOrEmpty/BlankOrEmpty1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/CaptureGroups/CaptureGroups.iml" filepath="$PROJECT_DIR$/RegularExpressions/CaptureGroups/CaptureGroups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/CharAt/CharAt.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/CharAt/CharAt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/CommentsRegularExpression/CommentsRegularExpression.iml" filepath="$PROJECT_DIR$/RegularExpressions/CommentsRegularExpression/CommentsRegularExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/CompareTo/CompareTo.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/CompareTo/CompareTo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/Concat/Concat.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/Concat/Concat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/Contains/Contains.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/Contains/Contains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/ContentEquals/ContentEquals.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/ContentEquals/ContentEquals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/Excercises/Excercises.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/Excercises/Excercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Numbers/FloatingPointNumbers/FloatingPointNumbers.iml" filepath="$PROJECT_DIR$/Numbers/FloatingPointNumbers/FloatingPointNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/IndexOf/IndexOf.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/IndexOf/IndexOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/IntroRegex/IntroRegex.iml" filepath="$PROJECT_DIR$/RegularExpressions/IntroRegex/IntroRegex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/Length/Length.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/Length/Length.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes-objects-methods/class-basics/Methods/Methods.iml" filepath="$PROJECT_DIR$/classes-objects-methods/class-basics/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/NamedCaptureGroups/NamedCaptureGroups.iml" filepath="$PROJECT_DIR$/RegularExpressions/NamedCaptureGroups/NamedCaptureGroups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Numbers/NumericDataTypes/NumericDataTypes.iml" filepath="$PROJECT_DIR$/Numbers/NumericDataTypes/NumericDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/RegexPractice/RegexPractice.iml" filepath="$PROJECT_DIR$/RegularExpressions/RegexPractice/RegexPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/RegexPractice2/RegexPractice2.iml" filepath="$PROJECT_DIR$/RegularExpressions/RegexPractice2/RegexPractice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/RemovingWhiteSpace/RemovingWhiteSpace.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/RemovingWhiteSpace/RemovingWhiteSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/ReplacingTextWithinStrings/ReplacingTextWithinStrings.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/ReplacingTextWithinStrings/ReplacingTextWithinStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/Split/Split.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/Split/Split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/StartsWithEndsWith/StartsWithEndsWith.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/StartsWithEndsWith/StartsWithEndsWith.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/Substring/Substring.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/Substring/Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/TextLearning.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/TextLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-text/TextLearning/UpperAndLowerCasing/UpperAndLowerCasing.iml" filepath="$PROJECT_DIR$/working-with-text/TextLearning/UpperAndLowerCasing/UpperAndLowerCasing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/WrappingUpPhoneNumber/WrappingUpPhoneNumber.iml" filepath="$PROJECT_DIR$/RegularExpressions/WrappingUpPhoneNumber/WrappingUpPhoneNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes-objects-methods/class-basics/class-basics.iml" filepath="$PROJECT_DIR$/classes-objects-methods/class-basics/class-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes-objects-methods/class-basics/constructors/constructors.iml" filepath="$PROJECT_DIR$/classes-objects-methods/class-basics/constructors/constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes-objects-methods/class-basics/excercises/excercises.iml" filepath="$PROJECT_DIR$/classes-objects-methods/class-basics/excercises/excercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes-objects-methods/class-basics/member-visibility/member-visibility.iml" filepath="$PROJECT_DIR$/classes-objects-methods/class-basics/member-visibility/member-visibility.iml" />
+    </modules>
+  </component>
+</project>

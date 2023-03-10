@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlankOrEmpty/BlankOrEmpty.iml" filepath="$PROJECT_DIR$/BlankOrEmpty/BlankOrEmpty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharAt/CharAt.iml" filepath="$PROJECT_DIR$/CharAt/CharAt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompareTo/CompareTo.iml" filepath="$PROJECT_DIR$/CompareTo/CompareTo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concat/Concat.iml" filepath="$PROJECT_DIR$/Concat/Concat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contains/Contains.iml" filepath="$PROJECT_DIR$/Contains/Contains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContentEquals/ContentEquals.iml" filepath="$PROJECT_DIR$/ContentEquals/ContentEquals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excercises/Excercises.iml" filepath="$PROJECT_DIR$/Excercises/Excercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IndexOf/IndexOf.iml" filepath="$PROJECT_DIR$/IndexOf/IndexOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Length/Length.iml" filepath="$PROJECT_DIR$/Length/Length.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemovingWhiteSpace/RemovingWhiteSpace.iml" filepath="$PROJECT_DIR$/RemovingWhiteSpace/RemovingWhiteSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplacingTextWithinStrings/ReplacingTextWithinStrings.iml" filepath="$PROJECT_DIR$/ReplacingTextWithinStrings/ReplacingTextWithinStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Split/Split.iml" filepath="$PROJECT_DIR$/Split/Split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartsWithEndsWith/StartsWithEndsWith.iml" filepath="$PROJECT_DIR$/StartsWithEndsWith/StartsWithEndsWith.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Substring/Substring.iml" filepath="$PROJECT_DIR$/Substring/Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextLearning.iml" filepath="$PROJECT_DIR$/TextLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UpperAndLowerCasing/UpperAndLowerCasing.iml" filepath="$PROJECT_DIR$/UpperAndLowerCasing/UpperAndLowerCasing.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+package package1;import package2.ClassB;public class ClassA {    public static void main(String[] args) {        // instance of classB        ClassB classB = new ClassB();        classB.publicMethod();//        classB.privateMethod();  - cant be called because it is private inside the ClassB    }}

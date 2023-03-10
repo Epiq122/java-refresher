@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class-basics.iml" filepath="$PROJECT_DIR$/class-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructors/constructors.iml" filepath="$PROJECT_DIR$/constructors/constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excercises/excercises.iml" filepath="$PROJECT_DIR$/excercises/excercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/member-visibility/member-visibility.iml" filepath="$PROJECT_DIR$/member-visibility/member-visibility.iml" />
+    </modules>
+  </component>
+</project>

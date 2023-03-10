@@ -1,0 +1,1 @@
+package model.Bank;public class Bank {    protected void  accessVault(){        System.out.println("You are in the vault");    }}
