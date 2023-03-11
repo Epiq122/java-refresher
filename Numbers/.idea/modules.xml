@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AreaOfACircle/AreaOfACircle.iml" filepath="$PROJECT_DIR$/AreaOfACircle/AreaOfACircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeyondDecimal/BeyondDecimal.iml" filepath="$PROJECT_DIR$/BeyondDecimal/BeyondDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigDecimal/BigDecimal.iml" filepath="$PROJECT_DIR$/BigDecimal/BigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CentripetalForce/CentripetalForce.iml" filepath="$PROJECT_DIR$/CentripetalForce/CentripetalForce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComparingNumbers/ComparingNumbers.iml" filepath="$PROJECT_DIR$/ComparingNumbers/ComparingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompoundInterestCalc/CompoundInterestCalc.iml" filepath="$PROJECT_DIR$/CompoundInterestCalc/CompoundInterestCalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/FloatingPointNumbers/FloatingPointNumbers.iml" filepath="$PROJECT_DIR$/FloatingPointNumbers/FloatingPointNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathFunctions/MathFunctions.iml" filepath="$PROJECT_DIR$/MathFunctions/MathFunctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathOperations/MathOperations.iml" filepath="$PROJECT_DIR$/MathOperations/MathOperations.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Numbers.iml" filepath="$PROJECT_DIR$/.idea/Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumericDataTypes/NumericDataTypes.iml" filepath="$PROJECT_DIR$/NumericDataTypes/NumericDataTypes.iml" />
     </modules>

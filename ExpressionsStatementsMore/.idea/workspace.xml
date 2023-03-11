@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19f8a56c-5afb-4eac-afac-230316bb9b44" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/Numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbers/.idea/Numbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbers/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RegularExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RegularExpressions/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="k4jae6o9" />
+  </component>
+  <component name="ProjectId" id="2Mo9Idwk64VSjFS3b8qBBlBNviJ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19f8a56c-5afb-4eac-afac-230316bb9b44" name="Changes" comment="" />
+      <created>1678422989723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678422989723</updated>
+      <workItem from="1678422990734" duration="145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

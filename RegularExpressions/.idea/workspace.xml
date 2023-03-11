@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54dac7e5-fd65-4a1a-a799-142d8f90758b" name="Changes" comment="" />
+    <list default="true" id="54dac7e5-fd65-4a1a-a799-142d8f90758b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/Numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbers/.idea/Numbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbers/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Numbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="ycnfvhau" />
@@ -29,6 +38,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.smartKeys&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -45,7 +55,12 @@
       <workItem from="1678252247293" duration="609000" />
       <workItem from="1678312200123" duration="8061000" />
       <workItem from="1678419193049" duration="15000" />
-      <workItem from="1678419230160" duration="343000" />
+      <workItem from="1678419230160" duration="658000" />
+      <workItem from="1678419921730" duration="208000" />
+      <workItem from="1678420230978" duration="593000" />
+      <workItem from="1678420989519" duration="99000" />
+      <workItem from="1678421110886" duration="72000" />
+      <workItem from="1678421205519" duration="599000" />
     </task>
     <servers />
   </component>
